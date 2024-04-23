@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hammad-codes/hammad-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **contact.hammadhabib@gmail.com**
 
-- ⚡ Fun fact **I'm very good at cricket!**
+- ⚡ Fun fact **I'm good at cricket!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
