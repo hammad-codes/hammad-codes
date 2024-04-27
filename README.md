@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 >Hi 👋, I'm Hammad Habib</h1>
-<h3 >I'm a software engineer/DevOps engineer. I'm from Pakistan.</h3>
+<h3 >I'm a Software engineer/DevOps engineer. I'm from Pakistan.</h3>
 
 - 🔭 I’m currently working on **my Final Year Proect at FAST NUCES Islamabad**
 
