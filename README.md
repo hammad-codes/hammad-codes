@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Hammad Habib</h1>
-<h3 align="center">My name is Hammad Habib and I'm a software developer/DevOps engineer. I'm from Pakistan.</h3>
+<h1 >Hi 👋, I'm Hammad Habib</h1>
+<h3 >I'm a software engineer/DevOps engineer. I'm from Pakistan.</h3>
 
 - 🔭 I’m currently working on **my Final Year Proect at FAST NUCES Islamabad**
 
