@@ -79,7 +79,7 @@ At Elixir, I work on scalable backend services, serverless architecture, and AI-
   <a href="https://linkedin.com/in/hammad-habib" target="_blank" style="display: inline-block; margin-right: 20px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
   </a>
-  <a href="mailto:your.email@example.com" style="display: inline-block; text-decoration: none;">
+  <a href="mailto:hammadhabibtech@gmail.com" style="display: inline-block; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" alt="Email" width="30" height="30" style="vertical-align: middle;" />
   </a>
 </p>
