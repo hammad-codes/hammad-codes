@@ -71,19 +71,19 @@ At Elixir, I work on scalable backend services, serverless architecture, and AI-
 ---
 
 ### 🌐 Let's Connect
-
 <p align="center">
   <a href="https://github.com/hammad-codes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/hammad-habib" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" width="30" height="30" />
   </a>
-  <a href="hammadhabibtech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:hammadhabibtech@gmail.com">
+    <img src="https://www.svgrepo.com/show/223047/mail.svg" alt="Email" width="30" height="30" />
   </a>
 </p>
-
 
 ---
 
