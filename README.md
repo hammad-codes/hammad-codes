@@ -74,19 +74,18 @@ At Elixir, I work on scalable backend services, serverless architecture, and AI-
 
 <p align="center">
   <a href="https://github.com/hammad-codes" target="_blank">
-    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/github.svg" alt="GitHub" width="28" height="28" />
+    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/github.svg" alt="GitHub" width="30" height="30" style="vertical-align: middle;" />
   </a>
-
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/hammad-habib" target="_blank">
-    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/linkedin.svg" alt="LinkedIn" width="28" height="28" />
+    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
   </a>
-  
-  
-  <a href="mailto:your.email@example.com">
-    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" alt="Email" width="28" height="28" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:hammadhabibtech@gmail.com">
+    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" alt="Email" width="30" height="30" style="vertical-align: middle;" />
   </a>
 </p>
+
 
 
 ---
