@@ -29,9 +29,7 @@ At Elixir, I work on scalable backend services, serverless architecture, and AI-
 ### ⚙️ Tech Stack I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,html,css,nodejs,flask,django&perline=8" />
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,linux,vscode&perline=8" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,nodejs,flask,django,aws,lambda,docker,kubernetes,postgres,mongodb,git,github,vscode&perline=8" />
 </p>
 
 ---
