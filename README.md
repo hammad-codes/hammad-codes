@@ -85,7 +85,3 @@ At Elixir, I work on scalable backend services, serverless architecture, and AI-
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammad-codes&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
