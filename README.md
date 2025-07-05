@@ -1,33 +1,84 @@
-<!--
-**hammad-codes/hammad-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hammad Habib
 
-Here are some ideas to get you started:
+**Software Engineer** | Cloud | MLOps | Full-Stack | Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 >Hi 👋, I'm Hammad Habib</h1>
-<h3 >I'm a Software engineer/DevOps engineer. I'm from Pakistan.</h3>
+I'm a passionate software engineer focused on building scalable, efficient applications and solving complex problems. I specialize in cloud computing, machine learning pipelines, and full-stack development.
 
-- 🔭 I’m currently working on **my Final Year Proect at FAST NUCES Islamabad**
+---
 
-- 🌱 I’m currently learning **Generative AI**
+## 📫 Contact Me
 
-- 📫 How to reach me **contact.hammadhabib@gmail.com**
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🌐 Portfolio: [hammad.codes](https://your-portfolio-link.com)
+- 💼 [Download Resume](assets/Hammad_Habib_Resume.pdf)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hammad-habib)
+- 💻 [GitHub](https://github.com/hammad-codes)
 
-- ⚡ Fun fact **I'm good at cricket!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hammad-habib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hammad-habib" height="30" width="40" /></a>
-<a href="https://instagram.com/ihammadhabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihammadhabib" height="30" width="40" /></a>
-</p>
+## 🧠 Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+| Languages       | Frameworks & Libraries | DevOps & Tools                    | Cloud & Databases                  |
+|-----------------|------------------------|-----------------------------------|------------------------------------|
+| Python, Java, JS, C/C++ | Django, Flask, Node.js   | Git, Docker, Jenkins, K8s, Postman, GitHub Actions | AWS, Firestore, PostgreSQL, MongoDB |
+
+---
+
+## 💼 Experience
+
+### 🏢 Associate Software Engineer — **Elixir Technologies**  
+📅 *July 2024 – Present*
+
+- Migrated enterprise clients to Elixir Cloud using Python-based backend services, enabling multi-million-dollar deals.
+- Built AWS Lambda serverless functions with RAG integration.
+- Ported a C++ codebase from Windows to Linux to enhance cross-platform support.
+
+### 💻 Freelance Software Engineer — **Fiverr**  
+📅 *May 2023 – August 2023*
+
+- Designed and optimized algorithms for scalable systems.
+- Served 50+ clients with a 100% satisfaction rate.
+- Tutored students in DSA and competitive programming.
+
+---
+
+## 🚀 Projects
+
+### 📍 **Route Optima (FYP)**
+> *Node.js, Express, Flask, MapBox, Google Maps API, Firestore*  
+- Built a backend system for last-mile delivery optimization.
+- Reduced delivery cost by 90% through route assignment improvements.
+
+### 🔄 **End-to-End MLOps Pipeline**
+> *GitHub Actions, DVC, MLflow, Docker, Flask*  
+- Automated model training, evaluation, and deployment.
+- Ensured reproducibility and automatic retraining on data drift.
+
+### 🩸 **LifeLine – Blood Bank Manager**
+> *Java, JavaFX*  
+- Developed a desktop application for managing donors and blood inventory.
+- Created a clean UI with report generation support.
+
+### 🎞️ **GoPPT – AI Slide Generator**
+> *Google PaLM API, Unsplash API, Node.js, EJS*  
+- Combined AI content generation and imagery for fast slide creation.
+- Reduced user effort by half.
+
+### 📊 **Supply-Demand Forecasting**
+> *Python, Scikit-learn, Pandas*  
+- Built a ML model predicting ride-hailing demand with 95% accuracy.
+
+### 📚 **DBLP MapReduce**
+> *Hadoop, Java, Scikit-learn*  
+- Analyzed 4GB dataset with MapReduce, doubling speed compared to single-machine.
+
+---
+
+## 📌 Let's Collaborate!
+
+I'm always open to exciting projects, freelance work, or just a good tech talk.  
+Drop a message [here](mailto:your.email@example.com) or reach out via [LinkedIn](https://www.linkedin.com/in/hammad-habib).
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
