@@ -74,17 +74,16 @@ At Elixir, I work on scalable backend services, serverless architecture, and AI-
 
 <p align="center">
   <a href="https://github.com/hammad-codes" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000?logo=github&style=for-the-badge&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/github.svg" alt="GitHub" width="30" height="30" style="vertical-align: middle;" />
   </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/hammad-habib" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
+  &#xa0;&#xa0;&#xa0;&#xa0; <a href="https://linkedin.com/in/hammad-habib" target="_blank">
+    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
   </a>
-  &nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
+  &#xa0;&#xa0;&#xa0;&#xa0; <a href="mailto:your.email@example.com">
+    <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" alt="Email" width="30" height="30" style="vertical-align: middle;" />
   </a>
 </p>
+
 
 
 
