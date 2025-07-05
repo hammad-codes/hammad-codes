@@ -28,25 +28,62 @@ At Elixir, I work on scalable backend services, serverless architecture, and AI-
 
 ### ⚙️ Tech Stack I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,nodejs,flask,django,aws,lambda,docker,kubernetes,postgres,mongodb,git,github,vscode&perline=8" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" colspan="4"><strong>Languages</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=python" width="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=java" width="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript" width="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" width="40"/></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4"><strong>Frameworks & Runtime</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=flask" width="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=django" width="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=aws" width="40"/></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4"><strong>DevOps & Cloud</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=lambda" width="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=kubernetes" width="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=git" width="40"/></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4"><strong>Databases & Tools</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=postgres" width="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=github" width="40"/></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" width="40"/></td>
+  </tr>
+</table>
+
 
 ---
 
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/hammad-codes">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" />
+  <a href="https://github.com/hammad-codes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/hammad-habib">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/hammad-habib" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:your.email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
 
 ---
 
