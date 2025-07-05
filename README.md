@@ -73,20 +73,16 @@ At Elixir, I work on scalable backend services, serverless architecture, and AI-
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/hammad-codes" target="_blank" style="display: inline-block; margin-right: 20px;">
+  <a href="https://github.com/hammad-codes" target="_blank" style="display: inline-block; margin-right: 20px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/github.svg" alt="GitHub" width="30" height="30" style="vertical-align: middle;" />
   </a>
-  <a href="https://linkedin.com/in/hammad-habib" target="_blank" style="display: inline-block; margin-right: 20px;">
+  <a href="https://linkedin.com/in/hammad-habib" target="_blank" style="display: inline-block; margin-right: 20px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
   </a>
-  <a href="mailto:your.email@example.com" style="display: inline-block;">
+  <a href="mailto:your.email@example.com" style="display: inline-block; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/mail.svg" alt="Email" width="30" height="30" style="vertical-align: middle;" />
   </a>
 </p>
-
-
-
-
 
 ---
 
